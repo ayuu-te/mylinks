@@ -60,7 +60,7 @@ nav ul {
 .nav-link a {
   display: inline-block;
   padding: 1rem 2rem;
-  color: #c49176;
+  color: #ff5900;
   font-weight: 600;
   letter-spacing: 1px;
   transition: 0.3s;
@@ -116,14 +116,14 @@ nav ul {
 }
 
 .bottom-section p {
-  color: #c49176;
+  color: #ff5900;
   font-weight: 300;
   display: flex;
   align-items: center;
 }
 
 .bottom-section p i {
-  color: #c49176;
+  color: #ff5900;
   font-size: 1.7rem;
   margin-right: 1rem;
 }
@@ -136,7 +136,7 @@ nav ul {
 .social-media a {
   margin-left: 1.5rem;
   font-size: 1.7rem;
-  color: #c49176;
+  color: #ff5900;
   transition: 0.3s;
 }
 
@@ -147,7 +147,7 @@ nav ul {
 
 .scroll {
   position: absolute;
-  color: #c49176;
+  color: #ff5900;
   font-weight: 400;
   left: 50%;
   transform: translateX(-50%);
@@ -162,7 +162,7 @@ nav ul {
   left: 50%;
   transform: translateX(-50%);
   bottom: 0;
-  background-image: linear-gradient(to top, rgba(255, 255, 255, 1), #c49176);
+  background-image: linear-gradient(to top, #ff5900;, #c49176);
 }
 
 /* .cursor-circle {
