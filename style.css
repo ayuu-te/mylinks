@@ -165,7 +165,7 @@ nav ul {
   background-image: linear-gradient(to top, rgba(255, 255, 255, 1), #c49176);
 }
 
-.cursor-circle {
+/* .cursor-circle {
   position: fixed;
   top: 100px;
   left: 100px;
@@ -199,3 +199,4 @@ nav ul {
   height: 70px;
   background-color: rgb(240, 240, 240);
 }
+ */
